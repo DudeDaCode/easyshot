@@ -12,7 +12,7 @@ A Python program made for taking screenshots easily\
 # Requirements (Only if using from source)
 Python (Tested in 3.9)\
 pyscreenshot\
-PySimpleGUIQt\
+PySimpleGUIQt
 
 # Building from source
 Step 1 - Clone the Repo\
